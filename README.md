@@ -12,4 +12,4 @@ This code creates a chatbot application using Gradio and OpenAI's GPT-3.5 to cre
 ### Gradio Interface 
 - The gr.Interface() function sets up the user interface, where the user inputs text, and the response from the assistant is displayed as text.
 ### Sharing
-demo.launch(share=True) will allow you to share the Gradio interface publicly.
+demo.launch(share=True) allows us to share the Gradio interface publicly.
